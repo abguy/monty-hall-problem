@@ -22,3 +22,15 @@ $ cd monty-hall-problem
 $ sudo pip3 install -e .
 $ python3 test.py 100
 ```
+
+# Results
+
+```
+$ python3 test.py 100000
+Stick choice failures: 66670 (66.67%)
+Switch choice failures: 33330 (33.33%)
+```
+
+It is counter-intuitive, but it is impossible to argue here.
+Indeed, if you switch doors you’ll win 2/3 of the time!
+Proved by the experiment.
