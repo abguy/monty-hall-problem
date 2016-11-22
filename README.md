@@ -20,4 +20,5 @@ I am going to prove it via experiment.
 $ git clone git@github.com:abguy/monty-hall-problem.git monty-hall-problem
 $ cd monty-hall-problem
 $ sudo pip3 install -e .
+$ python3 test.py 100
 ```
