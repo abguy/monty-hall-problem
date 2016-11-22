@@ -13,3 +13,11 @@ Surprisingly, the odds aren’t 50-50. If you switch doors you’ll win 2/3 of t
 # Goal
 
 I am going to prove it via experiment.
+
+# How to check
+
+```
+$ git clone git@github.com:abguy/monty-hall-problem.git monty-hall-problem
+$ cd monty-hall-problem
+$ sudo pip3 install -e .
+```
